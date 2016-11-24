@@ -25,3 +25,5 @@ require("url-loader?prefix=img/!./file.png");
 ## License
 
 MIT (http://www.opensource.org/licenses/mit-license.php)
+####
+自动决定是否使用base64
